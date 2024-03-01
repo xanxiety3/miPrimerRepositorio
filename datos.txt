@@ -1,3 +1,6 @@
 Nombre: Leidi Esther
 Apellido: Lizcano Arroyo 
 Edad: 20 Años
+Nacionalidad: Colombiana 
+Sexo: Femenino
+
