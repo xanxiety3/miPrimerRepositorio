@@ -1,5 +1,4 @@
-NOMBRE: LEIDI ESTHER
-APELLIDO: LIZCANO
-EDAD: 20
-GENERO: F
+Nombre: Leidi Esther
+Apellidos. Lizcano Arroyo
+
 
