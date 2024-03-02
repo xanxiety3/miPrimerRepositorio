@@ -1,5 +1,7 @@
 Nombre: Leidi Esther
 Apellidos: Lizcano Arroyo
 Vivo en Hatonuevo la Guajira con mi padre
+Tengo 20 años y estudio Analisis y Desarrollo de Software en 
+el SENA 
 
 
