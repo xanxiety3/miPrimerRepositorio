@@ -4,4 +4,5 @@ Vivo en Hatonuevo la Guajira con mi padre
 Tengo 20 años y estudio Analisis y Desarrollo de Software en 
 el SENA 
 
-
+Actualmente estoy aprendiendo un nuevo lenguaje de programacion llamado c#
+tambien, estoy aprendiendo a utilizar git, y realizar bocetos de paginas web
